@@ -2,7 +2,7 @@
 
 ## About
 
-This repository is the implementation of paper *SA-GNAS: Seed Architecure Expansion for Efficient Large-scale Graph Neural Architecture Search*
+This repository is the implementation of paper *SA-GNAS: Ranking-Consistent Seed Architecture Expansion for Scalable Graph Neural Architecture Search*
 
 ## Requirements
 
